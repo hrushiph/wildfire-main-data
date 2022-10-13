@@ -1,0 +1,257 @@
+row,col,latitude,longitude,fire_nofire,category,wind_speed,wind_direction,temperature,filename
+0,0,32.70292128,-116.3504642,no fire,Water,17,NE,76,Fire_shapefile.jpeg
+0,1,32.70368751,-116.5207373,no fire,Water,18.1,NW,71,Fire_shapefile.jpeg
+0,2,32.7019448,-116.183399,no fire,Water,16.1,NE,79,Fire_shapefile.jpeg
+0,3,33.12271293,-116.7448718,no fire,Scrub and Chaparral,25.1,NW,76,Fire_shapefile.jpeg
+0,4,33.25835228,-116.660092,no fire,Scrub and Chaparral,16.1,NE,71,Fire_shapefile.jpeg
+0,5,33.39653879,-116.0640595,no fire,Water,12.1,NW,79,Fire_shapefile.jpeg
+0,6,33.53839692,-117.2302776,no fire,Water,14.1,NE,76,Fire_shapefile.jpeg
+0,7,32.84583717,-116.9130137,no fire,Water,17,NW,71,Fire_shapefile.jpeg
+0,8,32.98440207,-116.9289325,no fire,Water,18.1,NE,79,Fire_shapefile.jpeg
+0,9,32.97909238,-116.1904891,no fire,Water,16.1,NW,76,Fire_shapefile.jpeg
+0,10,32.56854165,-116.7720202,no fire,Water,25.1,NE,71,Fire_shapefile.jpeg
+0,11,33.12269326,-117.2645614,no fire,Water,16.1,NW,79,Fire_shapefile.jpeg
+0,12,33.39638441,-116.5072924,no fire,Water,12.1,NE,76,Fire_shapefile.jpeg
+0,13,33.39700351,-116.7014906,no fire,Water,14.1,NW,71,Fire_shapefile.jpeg
+0,14,33.39865287,-116.4072744,no fire,Water,17,NE,79,Fire_shapefile.jpeg
+0,15,33.39693875,-116.6756832,no fire,Water,18.1,NW,76,Fire_shapefile.jpeg
+1,0,33.25601607,-116.1654001,no fire,Water,16.1,NE,71,Fire_shapefile.jpeg
+1,1,32.56565562,-116.6882958,no fire,Water,25.1,NW,79,Fire_shapefile.jpeg
+1,2,33.26126073,-117.2553155,no fire,Disturbed or Developed Areas,16.1,NE,76,Fire_shapefile.jpeg
+1,3,33.39937568,-116.5853452,no fire,Scrub and Chaparral,12.1,NW,71,Fire_shapefile.jpeg
+1,4,32.84306129,-116.8418481,no fire,Disturbed or Developed Areas,14.1,NE,79,Fire_shapefile.jpeg
+1,5,32.56849267,-116.7464526,no fire,Scrub and Chaparral,17,NW,76,Fire_shapefile.jpeg
+1,6,33.26149213,-116.912604,no fire,Riparian and Bottomland Habitat,18.1,NE,71,Fire_shapefile.jpeg
+1,7,33.39940834,-117.4047618,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",16.1,NW,79,Fire_shapefile.jpeg
+1,8,32.70288796,-116.3440631,no fire,Scrub and Chaparral,25.1,NE,76,Fire_shapefile.jpeg
+1,9,32.97794369,-116.029333,no fire,Riparian and Bottomland Habitat,16.1,NW,71,Fire_shapefile.jpeg
+1,10,32.9841942,-116.7613253,no fire,Water,12.1,NE,79,Fire_shapefile.jpeg
+1,11,32.83930862,-116.0180229,no fire,Water,14.1,NW,76,Fire_shapefile.jpeg
+1,12,32.83953165,-116.0468697,no fire,Water,17,NE,71,Fire_shapefile.jpeg
+1,13,32.84222835,-116.5167884,no fire,Water,18.1,NW,79,Fire_shapefile.jpeg
+1,14,33.120141,-116.8220585,no fire,Water,16.1,NE,76,Fire_shapefile.jpeg
+1,15,33.39461187,-116.173755,no fire,Water,25.1,NW,71,Fire_shapefile.jpeg
+2,0,32.84515697,-116.5783243,no fire,Water,16.1,NE,79,Fire_shapefile.jpeg
+2,1,33.26086546,-116.5956636,no fire,Water,12.1,NW,76,Fire_shapefile.jpeg
+2,2,32.78630113,-117.0867147,no fire,Scrub and Chaparral,14.1,NE,71,Fire_shapefile.jpeg
+2,3,33.39698782,-116.6950387,no fire,Woodland,17,NW,79,Fire_shapefile.jpeg
+2,4,32.84276258,-116.6841252,no fire,Scrub and Chaparral,18.1,NE,76,Fire_shapefile.jpeg
+2,5,33.39568648,-116.3550358,no fire,Scrub and Chaparral,16.1,NW,71,Fire_shapefile.jpeg
+2,6,32.70449133,-116.8324905,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",25.1,NE,79,Fire_shapefile.jpeg
+2,7,33.53794743,-117.4054063,no fire,Scrub and Chaparral,16.1,NW,76,Fire_shapefile.jpeg
+2,8,32.56872486,-117.0769168,no fire,Disturbed or Developed Areas,12.1,NE,71,Fire_shapefile.jpeg
+2,9,32.981299,-116.6772113,no fire,Scrub and Chaparral,14.1,NW,79,Fire_shapefile.jpeg
+2,10,33.26127336,-116.7509117,no fire,Scrub and Chaparral,17,NE,76,Fire_shapefile.jpeg
+2,11,33.26082362,-117.4170051,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",18.1,NW,71,Fire_shapefile.jpeg
+2,12,33.26147424,-116.8900572,no fire,Scrub and Chaparral,16.1,NE,79,Fire_shapefile.jpeg
+2,13,32.70366289,-116.5143359,no fire,Riparian and Bottomland Habitat,25.1,NW,76,Fire_shapefile.jpeg
+2,14,32.7072877,-117.0738345,no fire,Disturbed or Developed Areas,16.1,NE,71,Fire_shapefile.jpeg
+2,15,32.98075333,-116.5096139,no fire,Scrub and Chaparral,12.1,NW,79,Fire_shapefile.jpeg
+3,0,32.98163866,-116.8608662,no fire,Water,14.1,NE,76,Fire_shapefile.jpeg
+3,1,32.84257586,-116.0923565,no fire,Water,17,NW,71,Fire_shapefile.jpeg
+3,2,33.12066427,-116.2412872,no fire,Scrub and Chaparral,18.1,NE,79,Fire_shapefile.jpeg
+3,3,33.25871116,-116.8378825,no fire,Scrub and Chaparral,16.1,NW,76,Fire_shapefile.jpeg
+3,4,32.98006629,-116.3580745,no fire,Scrub and Chaparral,25.1,NE,71,Fire_shapefile.jpeg
+3,5,33.47775278,-116.4261097,no fire,Scrub and Chaparral,16.1,NW,79,Fire_shapefile.jpeg
+3,6,33.39874381,-116.4266296,no fire,Scrub and Chaparral,12.1,NE,76,Fire_shapefile.jpeg
+3,7,33.3956358,-116.3453587,no fire,Scrub and Chaparral,14.1,NW,71,Fire_shapefile.jpeg
+3,8,32.84138605,-116.3334295,no fire,Scrub and Chaparral,17,NE,79,Fire_shapefile.jpeg
+3,9,32.84304,-116.8258192,no fire,Woodland,18.1,NW,76,Fire_shapefile.jpeg
+3,10,32.98014778,-116.3741272,no fire,Scrub and Chaparral,16.1,NE,71,Fire_shapefile.jpeg
+3,11,32.70448262,-116.8260889,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",25.1,NW,79,Fire_shapefile.jpeg
+3,12,33.12274523,-117.2388344,no fire,Scrub and Chaparral,16.1,NE,76,Fire_shapefile.jpeg
+3,13,33.34554863,-117.3155287,no fire,Disturbed or Developed Areas,12.1,NW,71,Fire_shapefile.jpeg
+3,14,33.39981116,-116.7472911,no fire,Scrub and Chaparral,14.1,NE,79,Fire_shapefile.jpeg
+3,15,32.70728942,-116.929153,no fire,Disturbed or Developed Areas,17,NW,76,Fire_shapefile.jpeg
+4,0,33.39880374,-117.5602518,no fire,Water,18.1,NE,71,Fire_shapefile.jpeg
+4,1,33.53794743,-117.4054063,no fire,Water,16.1,NW,79,Fire_shapefile.jpeg
+4,2,33.11758841,-116.1827898,no fire,Water,25.1,NE,76,Fire_shapefile.jpeg
+4,3,32.70297063,-116.3600659,no fire,Woodland,16.1,NW,71,Fire_shapefile.jpeg
+4,4,32.78316869,-116.6619107,no fire,Disturbed or Developed Areas,12.1,NE,79,Fire_shapefile.jpeg
+4,5,33.26009926,-116.404991,no fire,Scrub and Chaparral,14.1,NW,76,Fire_shapefile.jpeg
+4,6,33.4000304,-116.9027874,no fire,Scrub and Chaparral,17,NE,71,Fire_shapefile.jpeg
+4,7,32.84371537,-116.2660922,no fire,Scrub and Chaparral,18.1,NW,79,Fire_shapefile.jpeg
+4,8,33.3977343,-116.2388882,no fire,Scrub and Chaparral,16.1,NE,76,Fire_shapefile.jpeg
+4,9,33.33602277,-116.3296868,no fire,Scrub and Chaparral,25.1,NW,71,Fire_shapefile.jpeg
+4,10,32.84465638,-116.4494538,no fire,Scrub and Chaparral,16.1,NE,79,Fire_shapefile.jpeg
+4,11,32.56872065,-116.9164782,no fire,Disturbed or Developed Areas,12.1,NW,76,Fire_shapefile.jpeg
+4,12,32.8458349,-116.9098078,no fire,Scrub and Chaparral,14.1,NE,71,Fire_shapefile.jpeg
+4,13,32.83935876,-116.0244333,no fire,Scrub and Chaparral,17,NW,79,Fire_shapefile.jpeg
+4,14,32.98125211,-116.1102038,no fire,Scrub and Chaparral,18.1,NE,76,Fire_shapefile.jpeg
+4,15,33.25796706,-116.540279,no fire,Water,16.1,NW,71,Fire_shapefile.jpeg
+5,0,32.64542587,-116.2325316,no fire,Water,25.1,NE,79,Fire_shapefile.jpeg
+5,1,32.98131543,-116.6836327,no fire,Water,16.1,NW,76,Fire_shapefile.jpeg
+5,2,33.40004617,-117.074415,no fire,Water,12.1,NE,71,Fire_shapefile.jpeg
+5,3,32.70705235,-116.7460614,no fire,Scrub and Chaparral,14.1,NW,79,Fire_shapefile.jpeg
+5,4,32.98313295,-116.432542,no fire,Scrub and Chaparral,17,NE,76,Fire_shapefile.jpeg
+5,5,33.12271991,-117.2516979,no fire,Disturbed or Developed Areas,18.1,NW,71,Fire_shapefile.jpeg
+5,6,32.97774142,-116.0036517,no fire,Scrub and Chaparral,16.1,NE,79,Fire_shapefile.jpeg
+5,7,33.3966114,-116.0737361,no fire,Scrub and Chaparral,25.1,NW,76,Fire_shapefile.jpeg
+5,8,32.84363951,-116.2532701,no fire,Scrub and Chaparral,16.1,NE,71,Fire_shapefile.jpeg
+5,9,32.84304,-116.8258192,no fire,Woodland,12.1,NW,79,Fire_shapefile.jpeg
+5,10,33.26127336,-116.7509117,no fire,Scrub and Chaparral,14.1,NE,76,Fire_shapefile.jpeg
+5,11,33.06065305,-116.8575283,no fire,Disturbed or Developed Areas,17,NW,71,Fire_shapefile.jpeg
+5,12,33.3946333,-116.1769806,no fire,Scrub and Chaparral,18.1,NE,79,Fire_shapefile.jpeg
+5,13,32.70705278,-117.2537252,no fire,Scrub and Chaparral,16.1,NW,76,Fire_shapefile.jpeg
+5,14,32.84217818,-116.5039659,no fire,Water,25.1,NE,71,Fire_shapefile.jpeg
+5,15,33.25701344,-116.3302908,no fire,Water,16.1,NW,79,Fire_shapefile.jpeg
+6,0,33.20197197,-116.931976,no fire,Water,12.1,NE,76,Fire_shapefile.jpeg
+6,1,33.25836523,-116.1138463,no fire,Water,14.1,NW,71,Fire_shapefile.jpeg
+6,2,32.98422991,-117.2191956,no fire,Water,17,NE,79,Fire_shapefile.jpeg
+6,3,33.25709912,-116.3463938,no fire,Water,18.1,NW,76,Fire_shapefile.jpeg
+6,4,33.39554967,-116.3292301,no fire,Water,16.1,NE,71,Fire_shapefile.jpeg
+6,5,32.70280325,-116.3280604,no fire,Woodland,25.1,NW,79,Fire_shapefile.jpeg
+6,6,32.84305302,-116.8354366,no fire,Disturbed or Developed Areas,16.1,NE,76,Fire_shapefile.jpeg
+6,7,32.84582759,-116.9001902,no fire,Scrub and Chaparral,12.1,NW,71,Fire_shapefile.jpeg
+6,8,32.97898729,-116.1744373,no fire,Scrub and Chaparral,14.1,NE,79,Fire_shapefile.jpeg
+6,9,33.26131057,-116.7702373,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",17,NW,76,Fire_shapefile.jpeg
+6,10,32.84270393,-116.6616851,no fire,Scrub and Chaparral,18.1,NE,71,Fire_shapefile.jpeg
+6,11,33.1226996,-116.73844,no fire,Scrub and Chaparral,16.1,NW,79,Fire_shapefile.jpeg
+6,12,32.70728376,-117.0802364,no fire,Scrub and Chaparral,25.1,NE,76,Fire_shapefile.jpeg
+6,13,32.97794369,-116.029333,no fire,Riparian and Bottomland Habitat,16.1,NW,71,Fire_shapefile.jpeg
+6,14,32.98414246,-116.7356385,no fire,Water,12.1,NE,79,Fire_shapefile.jpeg
+6,15,33.53837851,-117.2399712,no fire,Water,14.1,NW,76,Fire_shapefile.jpeg
+7,0,33.12074193,-116.2541494,no fire,Water,17,NE,71,Fire_shapefile.jpeg
+7,1,33.1198652,-116.6831369,no fire,Water,18.1,NW,79,Fire_shapefile.jpeg
+7,2,32.83943335,-116.0340488,no fire,Water,16.1,NE,76,Fire_shapefile.jpeg
+7,3,32.98163505,-116.8576554,no fire,Water,25.1,NW,71,Fire_shapefile.jpeg
+7,4,33.12293389,-116.8998779,no fire,Water,16.1,NE,79,Fire_shapefile.jpeg
+7,5,33.39473922,-116.1931084,no fire,Woodland,12.1,NW,76,Fire_shapefile.jpeg
+7,6,32.98139991,-116.7189508,no fire,Woodland,16.1,NE,71,Fire_shapefile.jpeg
+7,7,32.70665545,-116.5949813,no fire,Woodland,25.1,NW,79,Fire_shapefile.jpeg
+7,8,33.25851877,-116.7277293,no fire,Scrub and Chaparral,16.1,NE,76,Fire_shapefile.jpeg
+7,9,32.98070223,-116.4967714,no fire,Scrub and Chaparral,12.1,NW,71,Fire_shapefile.jpeg
+7,10,32.56596581,-116.8615114,no fire,Scrub and Chaparral,14.1,NE,79,Fire_shapefile.jpeg
+7,11,32.7071246,-117.2153146,no fire,Disturbed or Developed Areas,17,NW,76,Fire_shapefile.jpeg
+7,12,32.97791869,-116.0261229,no fire,Riparian and Bottomland Habitat,18.1,NE,71,Fire_shapefile.jpeg
+7,13,32.8456405,-116.7616968,no fire,Disturbed or Developed Areas,16.1,NW,79,Fire_shapefile.jpeg
+7,14,33.26127336,-116.7509117,no fire,Water,25.1,NE,76,Fire_shapefile.jpeg
+7,15,33.25920085,-116.2400918,no fire,Water,16.1,NW,71,Fire_shapefile.jpeg
+8,0,32.98161975,-116.8448123,no fire,Water,14.1,NE,76,Fire_shapefile.jpeg
+8,1,32.84583717,-116.9130137,no fire,Water,17,NW,71,Fire_shapefile.jpeg
+8,2,33.11922258,-116.4895514,no fire,Riparian and Bottomland Habitat,18.1,NW,79,Fire_shapefile.jpeg
+8,3,33.39781277,-116.2517911,no fire,Riparian and Bottomland Habitat,16.1,NE,90,Fire_shapefile.jpeg
+8,4,33.25784382,-116.5080716,no fire,Water,25.9,NW,91,Fire_shapefile.jpeg
+8,5,33.25918113,-116.2368712,no fire,Forest,29.1,NE,91,Fire_shapefile.jpeg
+8,6,32.70726984,-116.9003448,no fire,Forest,23.9,NW,91,Fire_shapefile.jpeg
+8,7,33.39701123,-116.7047165,fire,Forest,40.9,NE,97,Fire_shapefile.jpeg
+8,8,33.40003984,-116.9156917,no fire,Forest,23.9,NW,66,Fire_shapefile.jpeg
+8,9,32.70198631,-116.1897999,no fire,Forest,15,NE,68,Fire_shapefile.jpeg
+8,10,32.70372383,-116.5303393,no fire,Forest,19.9,NW,99,Fire_shapefile.jpeg
+8,11,32.84147039,-116.3494571,no fire,Forest,17,NW,103,Fire_shapefile.jpeg
+8,12,33.12271991,-117.2516979,no fire,Forest,18.1,NE,69,Fire_shapefile.jpeg
+8,13,32.97786846,-116.0197025,no fire,Forest,16.1,NW,76,Fire_shapefile.jpeg
+8,14,33.25624878,-116.2008252,no fire,Water,25.1,NE,71,Fire_shapefile.jpeg
+8,15,33.25837832,-116.6697544,no fire,Water,16.1,NW,79,Fire_shapefile.jpeg
+9,0,32.56870901,-116.9004983,no fire,Water,12.1,NE,69,Fire_shapefile.jpeg
+9,1,33.12157327,-116.4091427,no fire,Water,14.1,NW,69,Fire_shapefile.jpeg
+9,2,33.1216036,-116.4155741,no fire,Water,17,NE,69,Fire_shapefile.jpeg
+9,3,32.70212903,-116.2122028,no fire,Water,18.1,NW,69,Fire_shapefile.jpeg
+9,4,33.3947182,-116.1898828,no fire,Woodland,16.1,NW,69,Fire_shapefile.jpeg
+9,5,32.70663461,-116.5885796,no fire,Woodland,25.1,NE,69,Fire_shapefile.jpeg
+9,6,33.12019013,-116.8606481,no fire,Scrub and Chaparral,16.1,NW,69,Fire_shapefile.jpeg
+9,7,32.56565562,-116.6882958,no fire,Forest,12.1,NE,69,Fire_shapefile.jpeg
+9,8,33.25870692,-116.8346616,no fire,Woodland,14.1,NW,69,Fire_shapefile.jpeg
+9,9,33.26131097,-117.2295479,no fire,Disturbed or Developed Areas,17,NE,69,Fire_shapefile.jpeg
+9,10,33.39554967,-116.3292301,no fire,Woodland,18.1,NW,69,Fire_shapefile.jpeg
+9,11,32.84562855,-117.2445012,no fire,Scrub and Chaparral,16.1,NE,69,Fire_shapefile.jpeg
+9,12,32.97989713,-116.3259694,no fire,Scrub and Chaparral,25.1,NW,69,Fire_shapefile.jpeg
+9,13,33.25870692,-116.8346616,no fire,Woodland,16.1,NW,69,Fire_shapefile.jpeg
+9,14,32.84055122,-116.191749,no fire,Water,12.1,NE,69,Fire_shapefile.jpeg
+9,15,32.98414292,-117.2641474,no fire,Water,14.1,NW,69,Fire_shapefile.jpeg
+10,0,32.98158979,-116.8223369,no fire,Woodland,17,NE,69,Fire_shapefile.jpeg
+10,1,33.25848247,-116.7116251,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",18.1,NW,69,Fire_shapefile.jpeg
+10,2,32.56872473,-116.9228701,no fire,Water,16.1,NE,69,Fire_shapefile.jpeg
+10,3,33.39979107,-116.7376129,no fire,Water,25.1,NW,69,Fire_shapefile.jpeg
+10,4,33.11760945,-116.1860052,no fire,Water,16.1,NE,69,Fire_shapefile.jpeg
+10,5,32.56805609,-116.5828216,no fire,Scrub and Chaparral,12.1,NW,69,Fire_shapefile.jpeg
+10,6,32.98440718,-116.9385651,no fire,Water,14.1,NW,69,Fire_shapefile.jpeg
+10,7,32.98101922,-116.0781002,no fire,Dune Community,17,NE,69,Fire_shapefile.jpeg
+10,8,33.25776587,-116.4887472,no fire,Scrub and Chaparral,18.1,NW,69,Fire_shapefile.jpeg
+10,9,32.98440729,-117.0612208,no fire,Scrub and Chaparral,16.1,NE,69,Fire_shapefile.jpeg
+10,10,33.25918113,-116.2368712,no fire,Scrub and Chaparral,25.1,NW,69,Fire_shapefile.jpeg
+10,11,32.84560939,-117.2541187,no fire,Scrub and Chaparral,16.1,NE,69,Fire_shapefile.jpeg
+10,12,33.12268593,-116.7320083,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",12.1,NW,69,Fire_shapefile.jpeg
+10,13,32.98134731,-116.6964756,no fire,Water,14.1,NE,69,Fire_shapefile.jpeg
+10,14,32.70196559,-116.1865994,no fire,Water,17,NW,69,Fire_shapefile.jpeg
+10,15,32.97993163,-116.3323904,no fire,Water,18.1,NW,69,Fire_shapefile.jpeg
+11,0,33.12276334,-117.2291868,no fire,Water,16.1,NE,69,Fire_shapefile.jpeg
+11,1,32.70425348,-116.7038188,no fire,Water,25.1,NW,69,Fire_shapefile.jpeg
+11,2,32.84136894,-116.330224,no fire,Water,16.1,NE,69,Fire_shapefile.jpeg
+11,3,33.26076857,-117.4331095,no fire,Disturbed or Developed Areas,12.1,NW,69,Fire_shapefile.jpeg
+11,4,33.26087658,-117.4009008,no fire,Disturbed or Developed Areas,14.1,NE,69,Fire_shapefile.jpeg
+11,5,33.25808381,-116.0752008,no fire,Scrub and Chaparral,17,NW,69,Fire_shapefile.jpeg
+11,6,33.39875967,-117.5699295,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",18.1,NE,69,Fire_shapefile.jpeg
+11,7,33.11985698,-116.6799212,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",16.1,NW,69,Fire_shapefile.jpeg
+11,8,33.39872987,-117.5763812,no fire,Disturbed or Developed Areas,25.1,NW,69,Fire_shapefile.jpeg
+11,9,33.39700351,-116.7014906,no fire,Woodland,16.1,NE,69,Fire_shapefile.jpeg
+11,10,32.84040429,-116.1693115,no fire,Scrub and Chaparral,12.1,NW,69,Fire_shapefile.jpeg
+11,11,32.98162369,-116.8480231,no fire,Scrub and Chaparral,14.1,NE,69,Fire_shapefile.jpeg
+11,12,33.25597267,-116.1589593,no fire,Dune Community,17,NW,69,Fire_shapefile.jpeg
+11,13,32.98094774,-116.0684692,no fire,Water,18.1,NE,69,Fire_shapefile.jpeg
+11,14,32.70708414,-117.2377208,no fire,Water,16.1,NW,69,Fire_shapefile.jpeg
+11,15,33.25943103,-116.2787394,no fire,Water,25.1,NE,69,Fire_shapefile.jpeg
+12,0,32.56564766,-116.6851,no fire,Water,16.1,NW,69,Fire_shapefile.jpeg
+12,1,32.97902957,-116.180858,no fire,Water,12.1,NW,69,Fire_shapefile.jpeg
+12,2,32.84584542,-116.9258372,no fire,Riparian and Bottomland Habitat,14.1,NE,69,Fire_shapefile.jpeg
+12,3,32.70705235,-116.7460614,no fire,Scrub and Chaparral,17,NW,69,Fire_shapefile.jpeg
+12,4,32.98440567,-117.0644317,no fire,Scrub and Chaparral,18.1,NE,69,Fire_shapefile.jpeg
+12,5,32.70728577,-117.0770354,no fire,Scrub and Chaparral,16.1,NW,69,Fire_shapefile.jpeg
+12,6,32.70362534,-116.5047339,no fire,Scrub and Chaparral,25.1,NE,69,Fire_shapefile.jpeg
+12,7,33.12015441,-116.8317059,no fire,Woodland,16.1,NW,69,Fire_shapefile.jpeg
+12,8,32.98422385,-116.7773795,no fire,Scrub and Chaparral,12.1,NE,69,Fire_shapefile.jpeg
+12,9,33.11932531,-116.5152767,no fire,Scrub and Chaparral,14.1,NW,69,Fire_shapefile.jpeg
+12,10,33.11758841,-116.1827898,no fire,Riparian and Bottomland Habitat,17,NW,69,Fire_shapefile.jpeg
+12,11,32.98004975,-116.354864,no fire,Riparian and Bottomland Habitat,18.1,NE,69,Fire_shapefile.jpeg
+12,12,32.84516773,-116.58153,no fire,Scrub and Chaparral,16.1,NW,69,Fire_shapefile.jpeg
+12,13,32.84063337,-116.2045705,no fire,Water,25.1,NE,69,Fire_shapefile.jpeg
+12,14,33.39983718,-117.2395897,no fire,Water,16.1,NW,69,Fire_shapefile.jpeg
+12,15,33.40004213,-117.0808672,no fire,Water,12.1,NE,69,Fire_shapefile.jpeg
+13,0,32.98004975,-116.354864,no fire,Water,14.1,NW,69,Fire_shapefile.jpeg
+13,1,33.39689554,-116.6595536,no fire,Water,17,NE,69,Fire_shapefile.jpeg
+13,2,32.8458568,-117.0515079,no fire,Water,18.1,NW,69,Fire_shapefile.jpeg
+13,3,33.39982456,-117.2460418,no fire,Water,16.1,NW,61,Fire_shapefile.jpeg
+13,4,33.26150433,-117.0678554,no fire,Water,25.1,NE,61,Fire_shapefile.jpeg
+13,5,33.39725631,-116.8376257,no fire,Scrub and Chaparral,16.1,NW,61,Fire_shapefile.jpeg
+13,6,33.26087658,-117.4009008,no fire,Scrub and Chaparral,12.1,NE,61,Fire_shapefile.jpeg
+13,7,32.98130726,-116.680422,no fire,Scrub and Chaparral,14.1,NW,61,Fire_shapefile.jpeg
+13,8,32.56873193,-116.9356541,no fire,"Grasslands, Vernal Pools, Meadows, and Other Herb Communities",17,NE,61,Fire_shapefile.jpeg
+13,9,32.84222835,-116.5167884,no fire,Scrub and Chaparral,18.1,NW,61,Fire_shapefile.jpeg
+13,10,33.39767456,-116.2292111,no fire,Scrub and Chaparral,16.1,NE,61,Fire_shapefile.jpeg
+13,11,32.70186079,-116.1705975,no fire,Scrub and Chaparral,25.1,NW,61,Fire_shapefile.jpeg
+13,12,32.56854165,-116.7720202,no fire,Scrub and Chaparral,16.1,NW,61,Fire_shapefile.jpeg
+13,13,32.70449556,-116.8356914,no fire,Water,12.1,NE,61,Fire_shapefile.jpeg
+13,14,33.12276883,-116.7738147,no fire,Water,14.1,NW,61,Fire_shapefile.jpeg
+13,15,32.56849908,-116.7496485,no fire,Water,17,NE,61,Fire_shapefile.jpeg
+14,0,32.98161571,-116.8416015,no fire,Water,18.1,NW,61,Fire_shapefile.jpeg
+14,1,33.11982327,-116.6670582,no fire,Water,16.1,NE,61,Fire_shapefile.jpeg
+14,2,33.39578556,-116.3743902,no fire,Water,25.1,NW,61,Fire_shapefile.jpeg
+14,3,32.84133446,-116.323813,no fire,Water,16.1,NE,61,Fire_shapefile.jpeg
+14,4,32.83915624,-115.9987919,no fire,Water,12.1,NW,61,Fire_shapefile.jpeg
+14,5,32.5687115,-116.9036942,no fire,Water,14.1,NW,61,Fire_shapefile.jpeg
+14,6,32.70453341,-116.8676994,no fire,Water,17,NE,61,Fire_shapefile.jpeg
+14,7,33.11984868,-116.6767054,no fire,Water,18.1,NW,61,Fire_shapefile.jpeg
+14,8,32.98301359,-116.4068567,no fire,Scrub and Chaparral,16.1,NE,61,Fire_shapefile.jpeg
+14,9,32.70727476,-116.9067466,no fire,Scrub and Chaparral,25.1,SW,61,Fire_shapefile.jpeg
+14,10,32.70710775,-117.2249172,no fire,Scrub and Chaparral,16.1,SW,61,Fire_shapefile.jpeg
+14,11,33.39633251,-116.4943891,no fire,Scrub and Chaparral,12.1,NE,61,Fire_shapefile.jpeg
+14,12,32.56871848,-116.9132822,no fire,Water,14.1,W,61,Fire_shapefile.jpeg
+14,13,32.56593504,-116.8359444,no fire,Water,17,S,61,Fire_shapefile.jpeg
+14,14,32.9830288,-116.4100673,no fire,Water,18.1,SW,61,Fire_shapefile.jpeg
+14,15,33.39781277,-116.2517911,no fire,Water,16.1,SW,61,Fire_shapefile.jpeg
+15,0,33.1216336,-116.4220055,no fire,Water,25.1,NE,61,Fire_shapefile.jpeg
+15,1,32.70662407,-116.5853788,no fire,Water,16.1,W,61,Fire_shapefile.jpeg
+15,2,33.12072264,-116.2509338,no fire,Water,12.1,S,61,Fire_shapefile.jpeg
+15,3,33.39670704,-116.0866383,no fire,Water,14.1,SW,61,Fire_shapefile.jpeg
+15,4,32.70208866,-116.2058019,no fire,Water,17,SW,61,Fire_shapefile.jpeg
+15,5,32.98163866,-116.8608662,no fire,Water,18.1,NE,61,Fire_shapefile.jpeg
+15,6,32.84231298,-116.539228,no fire,Water,16.1,W,61,Fire_shapefile.jpeg
+15,7,32.8451352,-116.5719127,no fire,Water,25.1,S,61,Fire_shapefile.jpeg
+15,8,33.12074193,-116.2541494,no fire,Water,16.1,SW,61,Fire_shapefile.jpeg
+15,9,32.98368623,-116.5712453,no fire,Water,12.1,SW,61,Fire_shapefile.jpeg
+15,10,32.97999962,-116.3452324,no fire,Water,14.1,NE,61,Fire_shapefile.jpeg
+15,11,32.84442022,-116.398163,no fire,Forest,17,W,61,Fire_shapefile.jpeg
+15,12,33.12068381,-116.2445027,no fire,Water,18.1,S,61,Fire_shapefile.jpeg
+15,13,33.25783104,-116.5048508,no fire,Water,16.1,SW,61,Fire_shapefile.jpeg
+15,14,33.39639718,-116.5105183,no fire,Water,25.1,SW,61,Fire_shapefile.jpeg
+15,15,32.84309442,-116.8707001,no fire,Water,16.1,NE,61,Fire_shapefile.jpeg
